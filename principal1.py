@@ -1,0 +1,1 @@
+print("Esto imprime desde el módulo principal1.py")
