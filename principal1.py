@@ -1,1 +1,1 @@
-print("Esto imprime desde el módulo principal1.py")
+print("1er fichero principal1.py")
